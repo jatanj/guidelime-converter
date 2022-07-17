@@ -1,0 +1,12 @@
+/target
+/output
+/scripts
+/project/project
+/project/target
+/project/metals*
+.idea
+.bloop
+.history
+.metals
+.bsp
+.vscode
